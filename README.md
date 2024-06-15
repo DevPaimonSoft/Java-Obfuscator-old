@@ -1,1 +1,1 @@
-# Java Obfuscator, сделан пастером Loremaster (Paimon) - модератор югейма. По всем вопросам обфускатора звоните на +79511830040
+# Java Obfuscator, сделан пастером Loremaster (Paimon) - модератор югейма.
